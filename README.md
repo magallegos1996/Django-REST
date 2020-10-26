@@ -9,7 +9,7 @@ $ git clone https://github.com/magallegos1996/Django-REST.git
 ```
 Once you've cloned this repo, please change to the root directory:
  ```sh
-$ cd cd Django-REST
+$ cd Django-REST
 ```
 Then, execute the following command to create a python virtual environment
  ```sh
