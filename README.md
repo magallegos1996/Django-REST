@@ -56,3 +56,9 @@ You will need this credentials to get access to the full demo
 
 * **Username:** marcelo
 * **Password:** Ioet.1000
+
+### Tech Details
+| Tech | Version |
+| ------ | ------ |
+| Python | 3.9.0 |
+| Pip | 20.2.3 |
